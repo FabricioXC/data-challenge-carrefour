@@ -1,0 +1,24 @@
+.trendContainer {
+    color: rgb(13, 16, 17);
+    background-color: rgb(234, 236, 241);
+    border-radius: 10px;
+    border: rgb(160, 153, 226);
+    border-style: solid;
+    margin: 5px 5px;
+    padding: 0px 10px;
+
+}
+
+.trendAreaContainer {
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr
+}
+
+.trendTitle {
+    font-size: 16pt;
+    color: black;
+}
+
+.tweetVolume {
+    font-size: 12px;
+}
